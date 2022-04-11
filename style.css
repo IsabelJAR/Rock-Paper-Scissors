@@ -1,0 +1,14 @@
+body {
+  background-color: #800000;
+  color: #DCAE96;
+  text-align: center;
+  padding: 3px;
+}
+
+button {
+  background-color: #800004;
+  color: #DCAE96;
+  text-align: center;
+  padding: 3px;
+  margin: 3px;
+}
